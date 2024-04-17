@@ -9,7 +9,7 @@ We're pleased to introduce a new coding challenge that will allow you to demonst
 **Your Task:**
 
 - Loop through every year from 1 up to the current year.
-- Manually write the logic to determine if the year is a leap year, no libraries are allowed for the calculation.
+- Manually write the logic to determine if the year is a leap year, no libraries are allowed for the calculation. You also cannot use the build DateTime.IsLeapYear function.
 - Output the results to new two files for each execution of the application: one CSV file and one JSON file.
 - Output the total number of leap years found to the console.
 
