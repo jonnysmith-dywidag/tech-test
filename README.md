@@ -70,11 +70,13 @@ Total Leap Years: X
 
 ## Assessment Criteria
 
-- **Correctness:** The function must accurately determine leap years based on the given rules.
+- **Correctness:** The application must accurately determine leap years based on the given rules.
 - **Testing:** Your submission should include robust unit tests that cover various edge cases and typical scenarios.
 - **Code Quality:** We expect high-quality, production-ready code that adheres to industry standards.
 - **File Handling:** Proper file creation and formatting in both CSV and JSON formats will be key.
 - **Understanding of SOLID Principles:** Your code should reflect a solid understanding of SOLID design principles.
+- **Version Control Proficiency:** The submission must be through a Git repository (e.g., GitHub) with a clear, accessible commit history. Commit messages should be concise, yet descriptive, explaining why changes were made rather than what was changed.
+- **README File:** Include a well-structured README file in the Git repository. It should explain the purpose of the application, how to setup and run it, and any dependencies or configuration required. This demonstrates the candidate's ability to communicate effectively and ensure that their codebase is accessible to other developers.
 
 ## Conclusion
 
